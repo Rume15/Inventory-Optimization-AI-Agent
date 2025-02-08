@@ -1,1 +1,1 @@
-# AIS-for-HR-Experience
+# Artificial Intelligence in Inventory Managemnt
